@@ -1,4 +1,4 @@
-<h1>🤝💰  Quote of the women</h1>
+<h1>👩‍💬  Quote of the women</h1>
 <p>Quote of the Women is an inspiring app that features powerful quotes by women—celebrating their voices, wisdom, and strength one quote at a time.</p>
 <br><h2> 🚀 Live Demo </h2>
 <p>Check it out live here: <a href="https://quotes-women-one.glitch.me/">https://quotes-women-one.glitch.me/</a> </p>
