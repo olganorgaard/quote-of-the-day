@@ -6,7 +6,7 @@
 }
 
 body {
-	background-image: url('https://cdn.glitch.global/d11706a2-a651-46f9-bd3b-0340bf08dabc/roses.jpg?v=1736744860623');
+	background-image: url(img/roses.webp);
 	display: flex;
 	justify-content: center;
 	height: 100vh;

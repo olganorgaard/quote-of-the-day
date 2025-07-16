@@ -9,7 +9,7 @@ body {
 	display: flex;
 	justify-content: center;
 	height: 100vh;
-	background-image: url('https://cdn.glitch.global/d11706a2-a651-46f9-bd3b-0340bf08dabc/cover.jpg?v=1736745099740');
+	background-image: url(img/cover.webp);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -37,11 +37,13 @@ h1 {
 }
 
 .par{
+display: none;
  font-size: 25px;
  background-color: rgba(236, 228, 228, 0.329);
  border-radius: 15px;
  padding: 10px;
 text-align: center;
+
 }
 
 .to-right {

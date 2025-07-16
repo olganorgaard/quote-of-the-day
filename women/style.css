@@ -9,7 +9,7 @@ body {
 	display: flex;
 	justify-content: center;
 	height: 100vh;
-	background-image: url('https://cdn.glitch.global/d11706a2-a651-46f9-bd3b-0340bf08dabc/diana.jpg?v=1736745089672');
+	background-image: url('img/diana.webp');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top;
